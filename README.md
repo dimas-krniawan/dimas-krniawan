@@ -1,16 +1,9 @@
 <div align="center">
 
-<!-- 🔥 Banner Anime Blur -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzMnRkaDVpeThrcWtlMGphNWFjdmtuNDNycWMzeGE2bTMzd2E0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ejw31fJJkDfQ4/giphy.gif" 
 width="100%" style="border-radius:15px;filter: blur(1px) brightness(0.8);" alt="Banner"/>
 
-<!-- 🧠 Typing Animation (nyatu visual) -->
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dimas+Kurniawan+👋;The+Silent+Coder+⚡;Lost+in+the+Digital+Void...)](https://git.io/typing-svg)
-
-</div>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=2500&pause=500&color=6B7280&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dimas+Kurniawan+👋;The+Silent+Coder+⚡;Lost+in+the+Digital+Void...)](https://git.io/typing-svg)
 ---
 
 <div align="center">
