@@ -1,32 +1,14 @@
-<!-- 🖤 ANIME CYBER HEADER BY DIMAS -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi%2C+I'm+Dimas+Kurniawan;The+Silent+Coder+%F0%9F%96%A4;Anime+Lover+%7C+Web+Developer;Welcome+to+my+Digital+World..."
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi%2C+I'm+Dimas+Kurniawan;The+Silent+Coder+%F0%9F%96%A4;Welcome+to+my+Digital+World..."
     alt="Typing SVG Animation" />
 </div>
-
-<div align="center">
-  <h3>
-    <span style="color:white; text-shadow: 0 0 2px #999, 0 0 5px white;">
-      █ ▇ ▆ ▅ ▄ ▃ ▂ Welcome to my realm ▂ ▃ ▄ ▅ ▆ ▇ █
-    </span>
-  </h3>
-</div>
-
-
-<!-- 💫 Optional: Glitch Text Effect (CSS fallback) -->
-<div align="center">
-  <h3>
-    <span style="color:white; text-shadow: 0 0 2px #999, 0 0 5px white;">█ ▇ ▆ ▅ ▄ ▃ ▂ Welcome to my realm ▂ ▃ ▄ ▅ ▆ ▇ █</span>
-  </h3>
-</div>
-
 
 
 <div align="center">
 
 ### 🧠 *“Code. Learn. Build. Repeat.”*  
-🎓 Information Systems Student @ UIN  
+🎓 Information Systems Student
 💡 Passionate about **Web Dev**, **AI**, and **Trading**  
 🔥 Always hungry to learn something new!
 
