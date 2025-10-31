@@ -52,5 +52,6 @@
 
 </div>
 
-<!-- 🌊 Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer)
+<div align ="center">
+<img src  = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHB3N2E2dGVlYTJhNms2Z2phN21naXd5M2hiMGMwMnlybmxwc2NlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i45LHuo4c1jXF5rNlj/giphy.gif"/> 
+</div>
