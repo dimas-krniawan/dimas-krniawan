@@ -42,8 +42,7 @@
 💬 *Let's collaborate and build something amazing!*  
 
 ![Profile views](https://komarev.com/ghpvc/?username=dimas-krniawan&color=00C6FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/dimas-krniawan?style=for-the-badge&color=0072FF)
-![Stars](https://img.shields.io/github/stars/dimas-krniawan?style=for-the-badge&color=00C6FF)
+
 
 </div>
 
