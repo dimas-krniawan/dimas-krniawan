@@ -31,15 +31,6 @@
 
 ---
 
-### 🧩 Featured Projects  
-| 🚀 Project | 💬 Description |
-|-------------|----------------|
-| [📝 To-Do List App](#) | A simple task manager built with PHP & MySQL |
-| [💬 Curhat Connect](#) | A safe place to share thoughts and get advice |
-| [📈 InvestIQ](#) | Investment simulation app for beginners |
-
----
-
 ### 📊 GitHub Stats  
 ![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimas-krniawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-krniawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
