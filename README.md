@@ -1,7 +1,9 @@
 <div align="center">
-  <!-- 🌌 Banner Anime Bergerak -->
-  <img src="https://i.pinimg.com/originals/5e/8e/84/5e8e8481e4adf406f2f4c991d03084b5.gif" width="100%" alt="Banner Anime" />
-  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzMnRkaDVpeThrcWtlMGphNWFjdmtuNDNycWMzeGE2bTMzd2E0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ejw31fJJkDfQ4/giphy.gif" width="100%" />
+</div>
+
+
+<div align="center">
   <!-- 🧠 Typing Animation -->
   <img 
     src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi%2C+I'm+Dimas+Kurniawan;The+Silent+Coder+%F0%9F%96%A4;Welcome+to+my+Digital+World..."
