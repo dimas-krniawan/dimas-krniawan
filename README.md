@@ -1,5 +1,27 @@
-<!-- 🌈 Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=💻%20Dimas%20Kurniawan%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- 🖤 ANIME CYBER HEADER BY DIMAS -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi%2C+I'm+Dimas+Kurniawan;The+Silent+Coder+%F0%9F%96%A4;Anime+Lover+%7C+Web+Developer;Welcome+to+my+Digital+World..."
+    alt="Typing SVG Animation" />
+</div>
+
+<div align="center">
+  <h3>
+    <span style="color:white; text-shadow: 0 0 2px #999, 0 0 5px white;">
+      █ ▇ ▆ ▅ ▄ ▃ ▂ Welcome to my realm ▂ ▃ ▄ ▅ ▆ ▇ █
+    </span>
+  </h3>
+</div>
+
+
+<!-- 💫 Optional: Glitch Text Effect (CSS fallback) -->
+<div align="center">
+  <h3>
+    <span style="color:white; text-shadow: 0 0 2px #999, 0 0 5px white;">█ ▇ ▆ ▅ ▄ ▃ ▂ Welcome to my realm ▂ ▃ ▄ ▅ ▆ ▇ █</span>
+  </h3>
+</div>
+
+
 
 <div align="center">
 
